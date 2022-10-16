@@ -1,1 +1,2 @@
-<h1> Fazendo uma páguna de barbearia </h1>
+<h1> Fazendo uma página de barbearia </h1>
+(-*20)
